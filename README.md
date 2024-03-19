@@ -9,7 +9,7 @@ I'm on a journey of mastering the art of coding and data analytics, crafting pro
 
 Here's a snapshot of the technologies I'm proficient with or currently exploring:
 
-- **Programming Languages**: JavaScript, Python, SQL
+- **Programming Languages**: JavaScript, Python, SQL, Java, PHP
 - **Frameworks & Libraries**: Laravel, Node.js, Django, Angular
 - **Development Tools**: Git, Docker
 - **Databases**: MySQL, MongoDB, Firebase
