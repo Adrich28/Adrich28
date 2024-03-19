@@ -19,5 +19,5 @@ Here's a snapshot of the technologies I'm proficient with or currently exploring
 
 Feel free to reach out or follow me on social media:
 
-- **LinkedIn**: [My LinkedIn](www.linkedin.com/in/adria-chillon)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/adria-chillon)
 - **Email**: achillon28@gmail.com
